@@ -1,0 +1,10 @@
+/Users/dennischia/Desktop/projects/dotNet/MyFirstWebApp/bin/Debug/netcoreapp2.0/MyFirstWebApp.deps.json
+/Users/dennischia/Desktop/projects/dotNet/MyFirstWebApp/bin/Debug/netcoreapp2.0/MyFirstWebApp.runtimeconfig.json
+/Users/dennischia/Desktop/projects/dotNet/MyFirstWebApp/bin/Debug/netcoreapp2.0/MyFirstWebApp.runtimeconfig.dev.json
+/Users/dennischia/Desktop/projects/dotNet/MyFirstWebApp/bin/Debug/netcoreapp2.0/MyFirstWebApp.dll
+/Users/dennischia/Desktop/projects/dotNet/MyFirstWebApp/bin/Debug/netcoreapp2.0/MyFirstWebApp.pdb
+/Users/dennischia/Desktop/projects/dotNet/MyFirstWebApp/obj/Debug/netcoreapp2.0/MyFirstWebApp.csproj.CoreCompileInputs.cache
+/Users/dennischia/Desktop/projects/dotNet/MyFirstWebApp/obj/Debug/netcoreapp2.0/MyFirstWebApp.AssemblyInfoInputs.cache
+/Users/dennischia/Desktop/projects/dotNet/MyFirstWebApp/obj/Debug/netcoreapp2.0/MyFirstWebApp.AssemblyInfo.cs
+/Users/dennischia/Desktop/projects/dotNet/MyFirstWebApp/obj/Debug/netcoreapp2.0/MyFirstWebApp.dll
+/Users/dennischia/Desktop/projects/dotNet/MyFirstWebApp/obj/Debug/netcoreapp2.0/MyFirstWebApp.pdb
